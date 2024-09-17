@@ -8,6 +8,10 @@
 
 What does demand look like over time? What does extreme demand look like, and under what circumstances does this happen? How do factors like the weather and holidays affect demand? It was not required to to predict demand just to show understanding on how it varies.
 
+- Tools used:
+
+  Microsoft Excel and PowerPoint
+  
 # The deliverables are:
 
 - A workbook in Excel/Google Sheets.
@@ -18,6 +22,11 @@ What does demand look like over time? What does extreme demand look like, and un
 The requirements of the project is to produce a data visualisation dashboard using Tableau or PowerBI for a company with a global presence, and the management wants to standardize the monitoring of various projects within the company to keep track of how projects are doing to measure current and future performance.
 
 The execution for the bootcamp was done by Tableau and available on Tableau Public in the link below. The future personal action would be to create the same dashboard using PowerBI. (https://public.tableau.com/app/profile/aleksandar.peshev/viz/DentalPharmaInteractiveAnalyticsDashboardOverview/ProjectOverview)
+
+- Tools used:
+
+Tableau BI
+Microsoft Excel and PowerPoint
 
 # The project deliverables are:
 
@@ -36,6 +45,11 @@ Tree Walks Brochures Create a series of “Tree Walks” brochures, each one of 
 
 Environment Report Put up a single page on the Camden Council website showing the total carbon and pollution benefit provided by all their trees. This will also show information about trees removed, trees planted and the net carbon and pollution impact of this activity.
 
+- Tools used:
+
+Jupyer Notebook
+Microsoft PowerPoint
+
 # The deliverables presented are:
 
 _ The Jupyter Notebook, which will also serve as the Data Quality Report
@@ -46,6 +60,12 @@ _ Data Source List
 # Project 4 - Retrieve User Activity Data on an Online Forum Using SQL The inteaction data from an online forum was analysed using SQL by answering some specific questions about user activity (interaction) on the sites. The datasets were cleaned and formatting into three -users, posts & comments.
 
 Python-Sqlite library was ultilised for the project. The queries created was also updated into a database so that it can be reused for future analysis.
+
+- Tools used:
+
+SQLite inside Jupyter
+Jupyer Notebook
+Microsoft PowerPoint
 
 # The projec deliverables presented are:
 
